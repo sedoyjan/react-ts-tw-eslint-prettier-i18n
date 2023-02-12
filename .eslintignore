@@ -1,0 +1,8 @@
+.bundle/*
+.hostory/*
+*.json
+node_modules/*
+dist/*
+__tests__/*
+api/*
+src/api/*

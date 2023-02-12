@@ -1,0 +1,9 @@
+.history
+node_modules
+.temp_cache
+dist
+*.log
+
+src/.DS_Store
+
+.DS_Store
